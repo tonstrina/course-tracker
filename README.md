@@ -1,6 +1,6 @@
-# DLDC Course Tracker
+# Course Tracker
 
-A workflow tracker for managing community education courses — from planning and contracts through to SICAP reporting.
+A workflow tracker for managing community education courses — from planning and contracts through to reporting.
 
 Built with Next.js 14, Vercel Postgres, and NextAuth.
 
